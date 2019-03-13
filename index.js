@@ -1,1 +1,0 @@
-alert("E is the best! and I love the Patriots");
